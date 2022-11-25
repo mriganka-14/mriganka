@@ -1,0 +1,14 @@
+Package: Mriganka
+Type: Package
+Title: Frequently used basic Statistics functions
+Version: 0.0.1
+Authors@R: person("Mriganka", "Chaturvedi", email = "mrigankachaturvedi@gmail.com", role = c("aut", "cre"))
+Description: This package provides functions to perform operation such as mode identification, standardization & normalization on R vectors
+Depends: R (>= 3.1.0)
+License: GNU General Public License v3.0
+RoxygenNote: 7.2.1
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2022-11-25 16:51:27 UTC; Maggu
+Author: Mriganka Chaturvedi [aut, cre]
+Maintainer: Mriganka Chaturvedi <mrigankachaturvedi@gmail.com>
